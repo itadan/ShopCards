@@ -1,4 +1,4 @@
-# My React App
+# ShopCards
 
 ## Описание
 
