@@ -22,15 +22,15 @@
   ### npm test: Запуск тестов.
   ### npm eject: Извлечение конфигурации Create React App для полного контроля.
 ## Используемые зависимости
-  @testing-library/jest-dom - версия ^5.17.0
-  @testing-library/react - версия ^13.4.0
-  @testing-library/user-event - версия ^13.5.0
-  bootstrap - версия ^5.3.2
-  react - версия ^18.2.0
-  react-dom - версия ^18.2.0
-  react-router-dom - версия ^6.20.0
-  react-scripts - версия 5.0.1
-  web-vitals - версия ^2.1.4
+  ### @testing-library/jest-dom - версия ^5.17.0
+  ### @testing-library/react - версия ^13.4.0
+  ### @testing-library/user-event - версия ^13.5.0
+  ### bootstrap - версия ^5.3.2
+  ### react - версия ^18.2.0
+  ### react-dom - версия ^18.2.0
+  ### react-router-dom - версия ^6.20.0
+  ### react-scripts - версия 5.0.1
+  ### web-vitals - версия ^2.1.4
 
 
 # Getting Started with Create React App
